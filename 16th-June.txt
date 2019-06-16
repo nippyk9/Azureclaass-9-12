@@ -1,0 +1,67 @@
+Microsoft Azure:
+- sysops    Az- 100 , 101, 103  
+- Developement   AZ -200
+- Architecing    AZ -300
+
+
+Network: 
+
+existing: 
+  --   backup ,restore,
+       dns entries
+       peering,
+       Autoscaling -- architecing 
+
+
+AWS
+  ---  IAC Infrastarcture as a code (Terraform)/Cloudformation/Powershell/Shell scrript.
+
+Create a powershell script to create infra
+Craete  
+AZURE 
+
+
+
+
+Network: 2 classes
+   Ip address:
+   Subnet: 
+Compute:
+  VM 
+   Autosclaaing 
+   ELB
+
+DNS:
+ 
+
+Storage:
+  
+Backup strategies:
+
+ Apps 
+   web apps
+   Function apps
+   logic app
+ 
+Container service:
+  Kuberenets:
+
+Powershell:
+
+Ms Sql: 
+
+Active directory:
+
+
+  user management:
+   user:
+    VM  
+
+    
+   
+
+
+
+
+
+   
