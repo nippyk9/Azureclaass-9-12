@@ -53,9 +53,7 @@ Ms Sql:
 Active directory:
 
 
-  user management:
-   user:
-    VM  
+  
 
     
    
